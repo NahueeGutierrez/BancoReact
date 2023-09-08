@@ -1,2 +1,2 @@
 Acuerdense que no esta la carpeta de nodules
-!No agregue carpeta o archivos a la carpeta que dice Tranferencias, agreguenlo directo aca que es el "main".
+Lo que vayan a subir agreguenlo en sus respectivas carpetas, los componentes en componentes, imagenes en images, etc.
